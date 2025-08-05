@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[337],{20337:function(t,s,c){c.r(s),c.d(s,{default:function(){return e}});var n=c(32682);class e{constructor(t){this.buttons=t;const s=(0,n.Ri)("gclid");s&&this.buttons.forEach((t=>{const c=t.href;!/gclid/.test(c)&&/thanks/.test(c)&&(t.href=(0,n.U7)(c,`gclid=${s}`))}))}}}}]);
